@@ -1,23 +1,18 @@
-### Recordings
+Following are the links that we will refer in the training 
 
-#### https://www.youtube.com/playlist?list=PLLmNg_q93mexPwjFi3Nm2b6QZ9OdcHVby
+| __  | Link | Comments |
+| ------------- | ------------- | ------------- |
+| Session Recordings  | https://www.youtube.com/playlist?list=PLLmNg_q93mexPwjFi3Nm2b6QZ9OdcHVby | After week1 it will change |
+| Killercoda  | https://killercoda.com/rkalluru |  |
+| AWS Account Signup Video | https://www.youtube.com/watch?v=JFwAS_8BZvM |  |
+| AWS Account Signup Link  | https://portal.aws.amazon.com/billing/signup#/start/email |  |
+| AWS Login Page  | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 |  |
+| GitHub SingUP Page | https://github.com | |
+| Linux Credentials | centos / DevOps321 | |
 
-### Miro Dashboard:
 
-We do some mindmap diagrams during the training, That diagrams and notes can be viewed on this link.
+Lab Query Session Link 
 
-#### https://miro.com/app/board/uXjVNr4azHA=/?share_link_id=822510690149
-
-#### AWS Account SignUP Video :	 https://www.youtube.com/watch?v=JFwAS_8BZvM
-#### AWS Account SignUP URL :	   https://portal.aws.amazon.com/billing/signup#/start/email
-#### AWS Login Page : https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1
-
-## Killercoda:
-
-This website we use it for learning linux in the first week few days of training.
-
-#### https://killercoda.com/rkalluru
-
-#### GitHub SingUP URL: https://github.com
-
-#### CentOS9 AWS Linux Credentials - centos/DevOps321
+| Link | Comments |
+| ------------- | ------------- |
+| https://us06web.zoom.us/j/88648359147?pwd=5acbvxGj6oNc5wJnBCupSQAZ0HrWRI.1 | After week1 it will change, Timings are 1PM to 9.00PM IST / 2.30am to 10.30AM EST |
