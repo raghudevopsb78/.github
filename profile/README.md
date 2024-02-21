@@ -8,7 +8,8 @@ Following are the links that we will refer in the training
 | AWS Account Signup Link  | https://portal.aws.amazon.com/billing/signup#/start/email |  |
 | AWS Login Page  | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 |  |
 | GitHub SingUP Page | https://github.com | |
-| Linux Credentials | centos / DevOps321 | |
+| Create Ec2 Server | https://github.com/raghudevopsb78/.github/blob/main/create-ec2.md | |
+| Linux Credentials | ec2-user / DevOps321 | |
 
 
 Lab Query Session Link 
