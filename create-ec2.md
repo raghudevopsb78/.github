@@ -44,3 +44,9 @@ Password: DevOps321
 ![image](https://github.com/raghudevopsb78/.github/assets/29029753/e7c2255f-38c0-41c0-a1f2-acb1f284fc1f)
 
 
+## For MacOS 
+
+Open "Terminal"
+
+![image](https://github.com/raghudevopsb78/.github/assets/29029753/84801a1c-5ef7-4832-b813-518c0058821e)
+
