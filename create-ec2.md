@@ -41,9 +41,6 @@ Password: DevOps321
 
 ![image](https://github.com/raghudevopsb78/.github/assets/29029753/6ceacd0d-b0f7-4289-ba07-47237b35176d)
 
-![image](https://github.com/raghudevopsb78/.github/assets/29029753/73d02f80-7b1c-4b7b-8cd5-69a24d05069d)
-
-
-And Enter password "DevOps321"
+![image](https://github.com/raghudevopsb78/.github/assets/29029753/e7c2255f-38c0-41c0-a1f2-acb1f284fc1f)
 
 
