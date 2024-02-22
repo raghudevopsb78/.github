@@ -31,3 +31,19 @@ Username: ec2-user
 
 Password: DevOps321
 
+
+
+## For windows Desktop 
+
+
+
+![image](https://github.com/raghudevopsb78/.github/assets/29029753/2ed0e885-5448-4124-bb9e-0be453f5315e)
+
+![image](https://github.com/raghudevopsb78/.github/assets/29029753/6ceacd0d-b0f7-4289-ba07-47237b35176d)
+
+![image](https://github.com/raghudevopsb78/.github/assets/29029753/73d02f80-7b1c-4b7b-8cd5-69a24d05069d)
+
+
+And Enter password "DevOps321"
+
+
