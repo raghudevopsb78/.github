@@ -28,5 +28,6 @@ https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:v=3
 Then "Launch Instance"
 
 Username: ec2-user 
+
 Password: DevOps321
 
