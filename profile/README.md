@@ -2,7 +2,7 @@ Following are the links that we will refer in the training
 
 | __  | Link | Comments |
 | ------------- | ------------- | ------------- |
-| Session Recordings  | https://www.youtube.com/playlist?list=PLLmNg_q93mexPwjFi3Nm2b6QZ9OdcHVby | After week1 it will change |
+| Project Documentation  | https://learndevopsonline.github.io/learndevopsonline/build/docs/category/expense-app-project-setup-documentation---rhel-9centos-9 | |
 | Killercoda  | https://killercoda.com/rkalluru |  |
 | AWS Account Signup Video | https://www.youtube.com/watch?v=JFwAS_8BZvM |  |
 | AWS Account Signup Link  | https://portal.aws.amazon.com/billing/signup#/start/email |  |
