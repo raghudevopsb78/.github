@@ -2,6 +2,7 @@ Following are the links that we will refer in the training
 
 | __  | Link | Comments |
 | ------------- | ------------- | ------------- |
+| Notes Making | https://youtu.be/JwqtkS3Qk4k | |
 | Project Documentation  | https://learndevopsonline.github.io/learndevopsonline/build/docs/category/expense-app-project-setup-documentation---rhel-9centos-9 | |
 | Miro Link | https://miro.com/app/board/uXjVNr4azHA=/?share_link_id=921995775261 | |
 | Killercoda  | https://killercoda.com/rkalluru |  |
@@ -12,9 +13,3 @@ Following are the links that we will refer in the training
 | Create Ec2 Server | https://github.com/raghudevopsb78/.github/blob/main/create-ec2.md | |
 | Linux Credentials | ec2-user / DevOps321 | |
 
-
-Lab Query Session Link 
-
-| Link | Comments |
-| ------------- | ------------- |
-| https://us06web.zoom.us/j/88648359147?pwd=5acbvxGj6oNc5wJnBCupSQAZ0HrWRI.1 | After week1 it will change, Timings are 1PM to 9.00PM IST / 2.30am to 10.30AM EST |
