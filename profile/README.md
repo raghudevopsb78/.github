@@ -2,7 +2,7 @@ Following are the links that we will refer in the training
 
 | __  | Link | Comments |
 | ------------- | ------------- | ------------- |
-| Roboshop Import from | https://github.com/orgs/roboshop-devops-project-v2/repositories | |
+| Roboshop Import from | https://github.com/orgs/roboshop-devops-project-v1/repositories | |
 | ExpenseApp Import from | https://github.com/expenseapp-v2 | |
 | Notes Making | https://youtu.be/JwqtkS3Qk4k | |
 | Project Documentation  | https://learndevopsonline.github.io/learndevopsonline/build/docs/category/expense-app-project-setup-documentation---rhel-9centos-9 | |
